@@ -1,1 +1,4 @@
-study progess of llm
+本项目记录是作者再llm学习过程中的总结，包括三大部分：
+1、相关论文：有英文原文，以及作者的翻译版本，论文宝包括transformer、bert、gpt-1、gpt-2、gpt-3、instructgpt以及llama。
+2、相关代码：哈佛nlp团队的transformer的论文复现下代码，基于transformers库的简洁bert微调代码，基于llama的相关代码。
+3、ppt：学习经验总结ppt。
