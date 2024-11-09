@@ -2,3 +2,33 @@
 1、相关论文：有英文原文，以及作者的翻译版本，论文包括transformer、bert、gpt-1、gpt-2、gpt-3、instructgpt以及llama。
 2、相关代码：哈佛nlp团队的transformer的论文复现下代码，基于transformers库的简洁bert微调代码，基于llama的相关代码。
 3、ppt：学习经验总结ppt。
+
+
+part1: 论文
+1）Transformer_en.pdf & Transformer_ch.pdf: Transformer的原论文和翻译版本。
+2) BERT_en.pdf & BERT_ch.pdf: BERT的原论文和翻译版本。
+3）GPT-1_en.pdf & GPT-1_ch.pdf: GPT-1的原论文和翻译版本。
+4）GPT-2_en.pdf & GPT-2_ch.pdf: GPT-2的原论文和翻译版本。
+5）GPT-3_en.pdf & GPT-3_ch.pdf: GPT-3的原论文和翻译版本。
+6）InstructGPT_en.pdf & InstructGPT_ch.pdf: GPT-3的原论文和翻译版本。
+
+part2: 代码
+1）Transformer代码
+   transformer_paer.ipynb: Transformer论文复现代码，可以据此进行Transformer相关理论研究。
+
+2）BERT的微调代码
+   bert_classify.ipynb： BERT分类微调代码。
+   bert_ner.ipynb: BERT实体识别微调代码。
+   bert_question_answering.ipynb: bert问答微调代码。
+   bert_similarity.ipynb: bert相似度计算微调代码。
+
+3）生成类微调代码
+   sft_base.ipynb: 包含自监督模式、问答模式、多轮会话模式三种类型的SFT代码。
+   sft_med_bot.ipynb: 基于医疗多轮会话训练医疗机器人代码。
+
+part3: ppt
+1）1-自然语言处理综述.pptx
+2）2-Transformer详解.pptx
+3）3-BERT算法原理及实践案例.pptx
+4）4-GPT模型系列理论介绍.pptx
+5）5-大模微调原理与实践.pptx
