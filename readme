@@ -3,7 +3,7 @@
 2、ppt：以课程体系的方式编写了ppt，从大模型应用开发切入，逐步讲解了大模型发展历史中的主要算法，适合科研人员学习，也适合工程师学习，共七章，大纲见下。
 3、相关代码：与课程体系配套的代码，包括promt工程、langchain应用、哈佛nlp团队的transformer论文复现代码，基于transformers库的简洁bert微调代码，生成类的SFT代码。
 
-part1: 论文
+**part1: 论文**
 1）Transformer_en.pdf & Transformer_ch.pdf: Transformer的原论文和翻译版本。
 2) BERT_en.pdf & BERT_ch.pdf: BERT的原论文和翻译版本。
 3）GPT-1_en.pdf & GPT-1_ch.pdf: GPT-1的原论文和翻译版本。
